@@ -2,7 +2,7 @@
 
 Tech Stack: Python, Machine Learning
 
-@@ Overview
+## Overview
 
 Developed a predictive model that analyzes historical gold price datasets to forecast market trends with approximately 80% prediction accuracy.
 
